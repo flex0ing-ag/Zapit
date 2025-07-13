@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "261779044507",
+    "project_id": "zapit-d44be",
+    "storage_bucket": "zapit-d44be.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261779044507:android:2f8a3c5b05e72ad2ef6e3e",
+        "android_client_info": {
+          "package_name": "com.zapit.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261779044507-rq5kg1e048v90mofphiaqs6ble7r9nt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyw0Elp2nqvVnUoq177zNax6n5eap32Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261779044507-rq5kg1e048v90mofphiaqs6ble7r9nt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
